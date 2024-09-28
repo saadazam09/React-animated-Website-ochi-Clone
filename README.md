@@ -1,8 +1,18 @@
-# React + Vite
+# 🎨 Ochi Design Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+This project is a front-end implementation of an **Ochi Design Clone** using React.js. It aims to replicate the core features of the original site, showcasing design elements and layouts.
 
-Currently, two official plugins are available:
+## Features
+- 🖼️ Stunning visual design and layout
+- 📱 Fully responsive for various devices
+- ⚙️ Interactive components for a better user experience
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Prerequisites
+Before cloning the repository, ensure you have [Node.js](https://nodejs.org/) installed on your machine.
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/saadazam09/ochi-design-clone.git
+
